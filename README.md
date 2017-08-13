@@ -1,6 +1,8 @@
 # WTL
 下载官方源：http://wtl.sourceforge.net/
+官方支持版本：Visual Studio 2013 及以下版本
 ===================================
+Visual Studio 2015版本的需要如下操作
 一定要下载该GIT下的修复过的压缩包，官方源用于有兴趣者对比修改内容
 
 # Visual Studio 2015 安装步骤：
